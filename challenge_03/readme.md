@@ -31,25 +31,17 @@ características:
 5 - Adicione um método ao objeto `pessoa` chamado `parar`, que irá modificar o valor
 da propriedade `andando` para o valor booleano que representa "falso".
 
-?
-
 6 - Crie um método chamado `nomeCompleto`, que retorne a frase:
 
 - "Olá! Meu nome é [NOME] [SOBRENOME]!"
-
-?
 
 7 - Crie um método chamado `mostrarIdade`, que retorne a frase:
 
 - "Olá, eu tenho [IDADE] anos!"
 
-?
-
 8 - Crie um método chamado `mostrarPeso`, que retorne a frase:
 
 - "Eu peso [PESO]Kg."
-
-?
 
 9 - Crie um método chamado `mostrarAltura` que retorne a frase:
 
@@ -77,28 +69,18 @@ retornada)
 16 - Agora, faça a `pessoa` caminhar alguns metros, invocando o método `andar` 3x,
 com metragens diferentes passadas por parâmetro.
 
-?
-
-A pessoa ainda está andando? (Use a instrução para responder e comentários
+17 - A pessoa ainda está andando? (Use a instrução para responder e comentários
 inline ao lado da instrução para mostrar qual foi a resposta retornada)
 
-?
+18 - Se a pessoa ainda está andando, faça-a parar.
 
-Se a pessoa ainda está andando, faça-a parar.
-
-?
-
-E agora: a pessoa ainda está andando? (Use uma instrução para responder e
+19 - E agora: a pessoa ainda está andando? (Use uma instrução para responder e
 comentários inline ao lado da instrução para mostrar a resposta retornada)
 
-?
-
-Quantos metros a pessoa andou? (Use uma instrução para responder e comentários
+20 - Quantos metros a pessoa andou? (Use uma instrução para responder e comentários
 inline ao lado da instrução para mostrar a resposta retornada)
 
-?
-
-Agora vamos deixar a brincadeira um pouco mais divertida! :D
+21 - Agora vamos deixar a brincadeira um pouco mais divertida! :D
 Crie um método para o objeto `pessoa` chamado `apresentacao`. Esse método deve
 retornar a string:
 
@@ -116,10 +98,7 @@ Só que, antes de retornar a string, você vai fazer algumas validações:
   método), que será concatenada com a frase de retorno, mostrando a resposta
   correta, de acordo com os dados inseridos no objeto.
 
-?
-
-// Agora, apresente-se ;)
-?
+22 - Agora, apresente-se ;)
 
 ```
 
